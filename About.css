@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+}
+h1 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    font-size: 40px;
+    display: block;
+    width: 790px;
+  }
+body {
+   width: 800;
+   margin: 0 auto;
+   padding-top: 5px;
+   height: 100%;
+}
+section {
+    width: 790px;
+    display: inline-block;
+    text-align: center;
+}
+aside class= {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:#eeeeee;
+  font-size: 18px;
+  min-height: 61%;
+  padding: 9px;
+}
+aside ul {
+    list-style-type: none;
+}
+footer {
+    width: 777px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:10px;
+    display: block;
+}
+img {
+  width: 81%
+}
